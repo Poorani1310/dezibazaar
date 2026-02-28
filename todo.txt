@@ -1,0 +1,15 @@
+1.enquiry form 
+
+2. on submission mail to the sender
+
+3. Add to cart 
+
+	cart products need to be displayed
+
+4. My order 
+
+5 buy now - done
+
+6. if product in cart dont allow to add again 
+
+7. if product bought need to remove from cart

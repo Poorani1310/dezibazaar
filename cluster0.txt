@@ -1,0 +1,51 @@
+profile pic in the end
+
+responsive site
+
+Getting user public profile - done
+
+No of posts in the profile - done
+
+Profile photo in blog card - not done
+
+adding user into db - done
+
+ECommerce
+---------
+
+STORE PRODUCTS DATA - 54 ITEMS
+
+DETAILS IN PRODUCTS TABLE
+
+PRODUCT_ID
+PRODUCT_NAME
+PRODUCT_BRAND
+PRODUCT_RATE
+PRODUCT_STOCK
+PRODUCT_PHOTO_PATH
+
+desibazaar
+
+pooranid13_db_user
+j8rmasxDQFMvQIjS
+
+mongodb+srv://pooranid13_db_user:j8rmasxDQFMvQIjS@cluster0.je88hko.mongodb.net/?appName=Cluster0
+
+/** 
+* Paste one or more documents here
+*/
+{
+  "_id": {
+    "$oid": "699dd2d7a74bfb69c1e3a1b8"
+  },
+  "pdt_id" : "men_1",
+  "pdt_name" : "Men Gray Linen Shirt",
+  "pdt_brand" : "Raymonds",
+  "pdt_rate" : "2",
+  "pdt_avlb_stk" : 10,
+  "pdt_photo_path" : "../assets/men_1.png"
+}
+
+
+
+
